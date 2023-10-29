@@ -1,0 +1,15 @@
+.hero {
+   
+    height: 839px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    flex-direction: row-reverse;
+  }
+
+  @media screen and (max-width: 375px) {
+  .smRemove{
+    display: none;
+  }
+  }
