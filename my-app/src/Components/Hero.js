@@ -1,5 +1,4 @@
 import { Box, Text } from '@chakra-ui/react';
-import globals from "../Styles/Globals.module.css"
 import truck from "../Images/truck.png"
 import img1 from "../Images/img1.png"
 import img2 from "../Images/img2.png"

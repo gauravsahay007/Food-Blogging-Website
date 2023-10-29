@@ -6,7 +6,7 @@ export default function AboutUs() {
     <Box
     width="100vw"
     height={{base:"50vh",md:"58.20vh"}}
-    marginTop="23.13vh"
+    marginTop={{md:"23.13vh"}}
     position="absolute"
     style={{background:`llinear-gradient(180deg, rgba(30, 42, 93, 0.04) 4%, rgba(48, 62, 130, 0.04) 4%, rgba(60, 80, 157, 0.04) 4%)`}}
   >
